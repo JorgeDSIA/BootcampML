@@ -1,0 +1,9 @@
+scikit-learn   # entrenamiento del modelo (pipeline, escalado, regresión logística)
+numpy          # operaciones numéricas y arrays
+pandas         # carga y manipulación de datos tabulares (DataFrames)
+matplotlib     # gráficos para el análisis exploratorio de datos (EDA)
+seaborn        # gráficos estadísticos sobre matplotlib (EDA)
+pandera        # validación de esquema del dataset
+
+flask          # servidor web del frontend
+flask-cors     # habilita CORS para que el frontend llame a la API de inferencia
