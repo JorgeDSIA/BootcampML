@@ -1,0 +1,8 @@
+scikit-learn   # entrenamiento del modelo (pipeline, escalado, regresión logística)
+numpy          # operaciones numéricas y arrays
+pandas         # carga y manipulación de datos tabulares (DataFrames)
+matplotlib     # gráficos para el análisis exploratorio de datos (EDA)
+seaborn        # gráficos estadísticos sobre matplotlib (EDA)
+pandera        # validación de esquema del dataset
+joblib         # guardar/cargar el pipeline entrenado (model.pkl) en los Fundamentos 3 y 4
+ipykernel      # permite seleccionar este entorno virtual como kernel de Jupyter/VS Code para correr los .ipynb
