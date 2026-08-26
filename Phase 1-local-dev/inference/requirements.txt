@@ -1,0 +1,7 @@
+fastapi        # framework de la API de inferencia
+uvicorn        # servidor ASGI que corre la app de FastAPI
+joblib         # carga el modelo entrenado (model.pkl)
+pydantic       # valida y define el esquema de entrada/salida de la API
+scikit-learn   # necesario para deserializar y ejecutar el pipeline del modelo
+numpy          # operaciones numéricas usadas internamente por el modelo
+pandas         # manejo de datos tabulares usados internamente por el modelo

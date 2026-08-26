@@ -1,0 +1,3 @@
+flask          # servidor web que muestra el formulario y el resultado de la predicción
+flask_cors     # habilita CORS para llamadas entre el frontend y la API de inferencia
+requests       # hace la llamada HTTP al endpoint de inferencia (KServe/FastAPI)
