@@ -1,0 +1,7 @@
+scikit-learn   # entrenamiento del modelo (pipeline, escalado, regresión logística)
+numpy          # operaciones numéricas y arrays
+pandera        # validación de esquema del dataset
+matplotlib     # gráficos para el análisis exploratorio de datos (EDA)
+seaborn        # gráficos estadísticos sobre matplotlib (EDA)
+joblib         # guardar/cargar el pipeline entrenado (model.pkl) en los Fundamentos 3 y 4
+shap           # interpretación del modelo de machine learnin)
